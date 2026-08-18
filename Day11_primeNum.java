@@ -11,6 +11,10 @@ public class Day11_primeNum {
                 count++;
             }
         }
-        System.out.println("Count : " + count);
+        if (count > 2) {
+            System.out.println("Not a prime number");
+        } else {
+            System.out.println("Prime number");
+        }
     }
 }
