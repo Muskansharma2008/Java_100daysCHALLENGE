@@ -1,4 +1,4 @@
-public class Day23_ReverseString {
+public class Day24_ReverseString {
     public static void main(String[] args) {
         String str = "Hello";
         String reversed = "";
