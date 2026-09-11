@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day30_BinarySearch {
+public class Day31_BinarySearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
