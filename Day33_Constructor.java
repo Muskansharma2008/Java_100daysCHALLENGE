@@ -1,13 +1,13 @@
-public class Day32_Constructor {
+public class Day33_Constructor {
     String name;
     int age;
 
-    Day32_Constructor(String n, int a) {
+    Day33_Constructor(String n, int a) {
         this.name = n;
         this.age = a;
     }
     public static void main(String[] args) {
-        Day32_Constructor d = new Day32_Constructor("Muskan", 0);
+        Day33_Constructor d = new Day33_Constructor("Muskan", 18);
         System.out.println("Name: " + d.name);
         System.out.println("Age: " + d.age);
     }
