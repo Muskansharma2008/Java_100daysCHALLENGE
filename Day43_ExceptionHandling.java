@@ -7,8 +7,7 @@ public class Day43_ExceptionHandling {
 
             int result = a / b;
             System.out.println("Result: " + result);
-        }
-        catch (ArithmeticException e) {
+        } catch (ArithmeticException e) {
             System.out.println("Cannot divide by zero!");
         }
 
