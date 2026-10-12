@@ -5,7 +5,7 @@ class MyTask implements Runnable {
     }
 }
 
-public class Day60_RunnableInterface {
+public class Day60_Runnable {
     public static void main(String[] args) {
 
         MyTask task = new MyTask();
